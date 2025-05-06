@@ -38,8 +38,9 @@ body {
     font-size: large;
 }
 .Java_3 {
-    font-size: 14px;;
-    background-color: #f0f0f0;;
+    font-size: 14px;
+    color: #fff;
+    background-color: darkblue;
     font-family: Arial, sans-serif;
     padding: 10px;
     margin: 20px;
